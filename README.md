@@ -1,41 +1,37 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8aa3e3a3-da08-4b46-ad5e-642d108420c9" alt="GitHub Banner" />
+  <img src="https://i.pinimg.com/1200x/63/39/61/6339616f0ecaaf224656c008d4e446b8.jpg" alt="GitHub Banner" />
 </p>
 
 <!-- Name and Title -->
-<h1 align="center">Yado</h1>
-<h3 align="center">Fullstack Developer</h3>
-
+<h1 align="center" style="color:#E0E0FF; text-shadow: 0 0 10px rgba(106, 90, 205, 0.6);">Yado</h1>
 <br/>
 
-<!-- Main Card -->
-<div align="center" style="background-color:#1e1e2f; border-radius:20px; padding:30px;">
+<!-- Glass Card -->
+<div align="center">
 
   <!-- Tech Stack -->
-  <h3>🛠️ Tech Stack</h3>
+  <h3 style="color:#6A5ACD; margin-bottom: 16px;">Stack</h3>
 
-  <p><b>Languages & Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,rust,react" />
-
-  <br/><br/>
-
-  <p><b>Databases</b></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,js,ts,react,nextjs,python" />
 
   <br/><br/>
 
-  <p><b>Tools & Platforms</b></p>
-  <img src="https://skillicons.dev/icons?i=git,docker,azure,github,vscode" />
+  <p style="color:#C0B0FF;"><b>Databases & Storage</b></p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" />
 
   <br/><br/>
-  <hr style="border:1px solid #6A5ACD; border-radius:5px; width:80%;">
+
+  <p style="color:#C0B0FF;"><b>Cloud & DevOps</b></p>
+  <img src="https://skillicons.dev/icons?i=azure,docker,github,git,linux" />
+<h1 align="center" style="color:#E0E0FF; text-shadow: 0 0 10px rgba(106, 90, 205, 0.6);"></h1>
 
   <!-- Contact -->
-  <h3>📫 Contact Me</h3>
+  <h3 style="color:#6A5ACD; margin-bottom: 12px;">📫 Contact Me</h3>
   <a href="https://t.me/notyado" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=6A5ACD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=notyado&logo=telegram&label=Telegram&color=1E1B4B&logoColor=00F0FF&labelColor=0D0A2B&style=for-the-badge" height="35" alt="telegram" />
   </a>
 
   <br/><br/>
+
 </div>
