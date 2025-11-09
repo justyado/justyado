@@ -1,11 +1,5 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/63/39/61/6339616f0ecaaf224656c008d4e446b8.jpg" alt="GitHub Banner" />
-</p>
 
-<!-- Name and Title -->
-<h1 align="center" style="color:#E0E0FF; text-shadow: 0 0 10px rgba(106, 90, 205, 0.6);">Yado</h1>
-<br/>
+<h1 align="center" style="color:#E0E0FF; text-shadow: 0 0 10px rgba(106, 90, 205, 0.6);"></h1>
 
 <!-- Glass Card -->
 <div align="center">
